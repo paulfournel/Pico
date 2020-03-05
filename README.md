@@ -254,4 +254,6 @@ Official Pico Contributors won't claim bounties on their own behalf, Pico will n
 [EditInlineDocs]: https://github.com/picocms/Pico/edit/master/content-sample/index.md
 [EditUserDocs]: https://github.com/picocms/picocms.github.io/tree/master/_docs
 [EditDevDocs]: https://github.com/picocms/picocms.github.io/tree/master/_development
-[Bountysource]: https://www.bountysource.com/teams/picocms
+[Bountysource]: https://www.bountysource.com/teams/picocms 
+
+
